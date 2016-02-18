@@ -29,4 +29,6 @@ Arduino IDE.
 programmed in C Language.
 
 # This is an open source Hardware project
-Feel Free to use and modify the codes used by us.
+Feel Free to use and modify the codes written by us and create something more useful out of it.
+We would love to see your codes.
+Happy Coding!
