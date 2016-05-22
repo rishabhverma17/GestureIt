@@ -14,13 +14,13 @@ With the Gesture Based Hardware Control system, we aim to remove this obstructio
 # Tools and Technology used
 Arduino Due Microcontroller.
 Arduino Mini pro.
-Xbee wireless Module.
+Xbee S2 wireless Module.
 Xbee Sheild.
-SOMO audio module.
+Xbee USB FTDI 232R Adapter.
 Flex Sensor.
-Force Sensor.
-3D Gyroscope L3G4200.
-DC Motor.
+2 Force Sensor.
+Accelerometer.
+2 DC Motor.
 L293D DC Motor H-Bridge.
 Bread Board / Proto Board.
 RC Car.
